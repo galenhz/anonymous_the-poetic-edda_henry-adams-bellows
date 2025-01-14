@@ -29,3 +29,41 @@ section[epub|type~="dedication"] > *{
 	}
 }
 /* End centered dedications */
+
+/* Headers that do not go into the table of contents (7.2.10.8) */
+header{
+	font-variant: small-caps;
+	margin: 1em;
+	text-align: center;
+}
+
+/* Poetry formatting from 7.5 */
+[epub|type~="z3998:poem"] p{
+	text-align: initial;
+	text-indent: 0;
+}
+
+[epub|type~="z3998:poem"] p + p{
+	margin-top: 1em;
+}
+
+[epub|type~="z3998:poem"] p > span{
+	display: block;
+	padding-left: 1em;
+	text-indent: -1em;
+}
+
+[epub|type~="z3998:poem"] p > span + br{
+	display: none;
+}
+
+p span.i1{
+	padding-left: 2em;
+	text-indent: -1em;
+}
+
+p span.i2{
+	padding-left: 3em;
+	text-indent: -1em;
+}
+/* End poetry formatting */
