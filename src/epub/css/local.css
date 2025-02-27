@@ -39,6 +39,7 @@ header{
 
 /* Poetry formatting from 7.5 */
 [epub|type~="z3998:poem"] p{
+	display: inline-block;
 	text-align: initial;
 	text-indent: 0;
 }
@@ -67,3 +68,21 @@ p span.i2{
 	text-indent: -1em;
 }
 /* End poetry formatting */
+
+[epub|type~="z3998:poem"] header{
+	/* styling for stanza numbers */
+	display: block;
+	font-variant: small-caps;
+	margin: 2em 0 1em 0;
+	text-align: center;
+}
+
+[epub|type~="z3998:poem"] header + p{
+	/* adjusts spacing between number and stanza */
+	margin: 0;
+}
+
+/* Correctly handle caesuras */
+span > span + span{
+	margin-left: 1.5em;
+}
