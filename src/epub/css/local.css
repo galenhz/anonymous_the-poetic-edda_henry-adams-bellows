@@ -86,3 +86,10 @@ p span.i2{
 span > span + span{
 	margin-left: 1.5em;
 }
+
+/* Handle "spake" lines */
+p span[epub|type~="z3998:persona"]{
+	font-style: italic;
+	text-indent: -1em;
+	padding-left: 3em;
+}
