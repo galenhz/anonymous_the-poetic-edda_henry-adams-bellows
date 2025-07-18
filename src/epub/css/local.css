@@ -91,8 +91,8 @@ p span.i2{
 }
 
 [epub|type~="z3998:poem"] header > p{
-        text-align: center;
-        text-indent: 0;
+	text-align: center;
+	text-indent: 0;
 }
 
 [epub|type~="z3998:poem"] header + p{
@@ -108,6 +108,6 @@ span > span + span{
 /* Handle "spake" lines */
 p span[epub|type~="z3998:persona"]{
 	font-style: italic;
-	text-indent: -1em;
 	padding-left: 3em;
+	text-indent: -1em;
 }
