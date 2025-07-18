@@ -30,6 +30,20 @@ section[epub|type~="dedication"] > *{
 }
 /* End centered dedications */
 
+/* Glossary formatting (7.11.2.4) */
+dl{
+	margin: 1em 0;
+}
+
+dd{
+	margin-left: 40px;
+}
+
+dd + dt{
+	margin-top: 1em;
+}
+/* End Glossary formatting */
+
 /* Headers that do not go into the table of contents (7.2.10.8) */
 header{
 	font-variant: small-caps;
