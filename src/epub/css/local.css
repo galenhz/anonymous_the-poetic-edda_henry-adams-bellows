@@ -51,6 +51,13 @@ header{
 	text-align: center;
 }
 
+/* Elision (7.5.7) */
+span.elision{
+	margin: .5em;
+	margin-left: 3em;
+}
+/* End Elision */
+
 /* Poetry formatting from 7.5 */
 [epub|type~="z3998:poem"] p{
 	text-align: initial;
