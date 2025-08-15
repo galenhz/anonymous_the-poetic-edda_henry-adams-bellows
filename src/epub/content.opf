@@ -87,18 +87,107 @@
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
 		<item href="css/se.css" id="se.css" media-type="text/css"/>
+		<item href="glossary-search-key-map.xml" id="glossary-search-key-map.xml" media-type="application/vnd.epub.search-key-map+xml" properties="glossary search-key-map"/>
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/acknowledgement.xhtml" id="acknowledgement.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/alvissmol.xhtml" id="alvissmol.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/appendix.xhtml" id="appendix.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/atlakvitha-en-gronlenzka.xhtml" id="atlakvitha-en-gronlenzka.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/atlamol-en-gronlenzku.xhtml" id="atlamol-en-gronlenzku.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/baldrs-draumar.xhtml" id="baldrs-draumar.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/brot-af-sigurtharkvithu.xhtml" id="brot-af-sigurtharkvithu.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/dedication.xhtml" id="dedication.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/drap-niflunga.xhtml" id="drap-niflunga.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/fafnismol.xhtml" id="fafnismol.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/fra-dautha-sinfjotla.xhtml" id="fra-dautha-sinfjotla.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/glossary.xhtml" id="glossary.xhtml" media-type="application/xhtml+xml" properties="glossary"/>
+		<item href="text/grimnismol.xhtml" id="grimnismol.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/gripisspo.xhtml" id="gripisspo.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/guthrunarhvot.xhtml" id="guthrunarhvot.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/guthrunarkvitha-1.xhtml" id="guthrunarkvitha-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/guthrunarkvitha-2.xhtml" id="guthrunarkvitha-2.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/guthrunarkvitha-3.xhtml" id="guthrunarkvitha-3.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/halftitlepage.xhtml" id="halftitlepage.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/hamthesmol.xhtml" id="hamthesmol.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/harbarthsljoth.xhtml" id="harbarthsljoth.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/helgakvitha-hjorvarthssonar.xhtml" id="helgakvitha-hjorvarthssonar.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/helgakvitha-hundingsbana-1.xhtml" id="helgakvitha-hundingsbana-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/helgakvitha-hundingsbana-2.xhtml" id="helgakvitha-hundingsbana-2.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/helreith-brynhildar.xhtml" id="helreith-brynhildar.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/hovamol.xhtml" id="hovamol.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/hymiskvitha.xhtml" id="hymiskvitha.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/hyndluljoth.xhtml" id="hyndluljoth.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/introduction.xhtml" id="introduction.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/lokasenna.xhtml" id="lokasenna.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/oddrunargratr.xhtml" id="oddrunargratr.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/reginsmol.xhtml" id="reginsmol.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/rigsthula.xhtml" id="rigsthula.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/sigrdrifumol.xhtml" id="sigrdrifumol.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/sigurtharkvitha-en-skamma.xhtml" id="sigurtharkvitha-en-skamma.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/skirnismol.xhtml" id="skirnismol.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/svipdagsmol.xhtml" id="svipdagsmol.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/thrymskvitha.xhtml" id="thrymskvitha.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/vafthruthnismol.xhtml" id="vafthruthnismol.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/volume-1.xhtml" id="volume-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/volume-2.xhtml" id="volume-2.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/volundarkvitha.xhtml" id="volundarkvitha.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/voluspo.xhtml" id="voluspo.xhtml" media-type="application/xhtml+xml"/>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="dedication.xhtml"/>
+		<itemref idref="acknowledgement.xhtml"/>
+		<itemref idref="introduction.xhtml"/>
+		<itemref idref="halftitlepage.xhtml"/>
+		<itemref idref="volume-1.xhtml"/>
+		<itemref idref="voluspo.xhtml"/>
+		<itemref idref="hovamol.xhtml"/>
+		<itemref idref="vafthruthnismol.xhtml"/>
+		<itemref idref="grimnismol.xhtml"/>
+		<itemref idref="skirnismol.xhtml"/>
+		<itemref idref="harbarthsljoth.xhtml"/>
+		<itemref idref="hymiskvitha.xhtml"/>
+		<itemref idref="lokasenna.xhtml"/>
+		<itemref idref="thrymskvitha.xhtml"/>
+		<itemref idref="alvissmol.xhtml"/>
+		<itemref idref="baldrs-draumar.xhtml"/>
+		<itemref idref="rigsthula.xhtml"/>
+		<itemref idref="hyndluljoth.xhtml"/>
+		<itemref idref="svipdagsmol.xhtml"/>
+		<itemref idref="volume-2.xhtml"/>
+		<itemref idref="volundarkvitha.xhtml"/>
+		<itemref idref="helgakvitha-hjorvarthssonar.xhtml"/>
+		<itemref idref="helgakvitha-hundingsbana-1.xhtml"/>
+		<itemref idref="helgakvitha-hundingsbana-2.xhtml"/>
+		<itemref idref="fra-dautha-sinfjotla.xhtml"/>
+		<itemref idref="gripisspo.xhtml"/>
+		<itemref idref="reginsmol.xhtml"/>
+		<itemref idref="fafnismol.xhtml"/>
+		<itemref idref="sigrdrifumol.xhtml"/>
+		<itemref idref="brot-af-sigurtharkvithu.xhtml"/>
+		<itemref idref="guthrunarkvitha-1.xhtml"/>
+		<itemref idref="sigurtharkvitha-en-skamma.xhtml"/>
+		<itemref idref="helreith-brynhildar.xhtml"/>
+		<itemref idref="drap-niflunga.xhtml"/>
+		<itemref idref="guthrunarkvitha-2.xhtml"/>
+		<itemref idref="guthrunarkvitha-3.xhtml"/>
+		<itemref idref="oddrunargratr.xhtml"/>
+		<itemref idref="atlakvitha-en-gronlenzka.xhtml"/>
+		<itemref idref="atlamol-en-gronlenzku.xhtml"/>
+		<itemref idref="guthrunarhvot.xhtml"/>
+		<itemref idref="hamthesmol.xhtml"/>
+		<itemref idref="appendix.xhtml"/>
+		<itemref idref="glossary.xhtml"/>
+		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
