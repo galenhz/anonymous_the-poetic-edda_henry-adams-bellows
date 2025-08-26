@@ -104,6 +104,7 @@
 		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/fafnismol.xhtml" id="fafnismol.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/fra-dautha-sinfjotla.xhtml" id="fra-dautha-sinfjotla.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/general-introduction.xhtml" id="general-introduction.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/glossary.xhtml" id="glossary.xhtml" media-type="application/xhtml+xml" properties="glossary"/>
 		<item href="text/grimnismol.xhtml" id="grimnismol.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/gripisspo.xhtml" id="gripisspo.xhtml" media-type="application/xhtml+xml"/>
@@ -122,7 +123,6 @@
 		<item href="text/hymiskvitha.xhtml" id="hymiskvitha.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/hyndluljoth.xhtml" id="hyndluljoth.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/introduction.xhtml" id="introduction.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/lokasenna.xhtml" id="lokasenna.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/oddrunargratr.xhtml" id="oddrunargratr.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/reginsmol.xhtml" id="reginsmol.xhtml" media-type="application/xhtml+xml"/>
@@ -146,7 +146,7 @@
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="dedication.xhtml"/>
 		<itemref idref="acknowledgement.xhtml"/>
-		<itemref idref="introduction.xhtml"/>
+		<itemref idref="general-introduction.xhtml"/>
 		<itemref idref="halftitlepage.xhtml"/>
 		<itemref idref="volume-1.xhtml"/>
 		<itemref idref="voluspo.xhtml"/>
