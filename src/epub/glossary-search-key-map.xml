@@ -51,7 +51,7 @@
 	<search-key-group href="text/glossary.xhtml#alvis">
 		<match value="Alvis"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#alvissmol">
+	<search-key-group href="text/glossary.xhtml#alvissmol-glossary">
 		<match value="Alvissmol"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#am">
@@ -153,7 +153,7 @@
 	<search-key-group href="text/glossary.xhtml#baldr">
 		<match value="Baldr"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#baldrs-draumar">
+	<search-key-group href="text/glossary.xhtml#baldrs-draumar-glossary">
 		<match value="Baldrs Draumar"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#baleyg">
@@ -300,7 +300,7 @@
 	<search-key-group href="text/glossary.xhtml#brodd">
 		<match value="Brodd"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#brot-af-sigurtharkvithu">
+	<search-key-group href="text/glossary.xhtml#brot-af-sigurtharkvithu-glossary">
 		<match value="Brot af Sigurtharkvithu"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#brunavagar">
@@ -366,7 +366,7 @@
 	<search-key-group href="text/glossary.xhtml#dori">
 		<match value="Dori"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#drap-niflunga">
+	<search-key-group href="text/glossary.xhtml#drap-niflunga-glossary">
 		<match value="Drap Niflunga"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#draupnir">
@@ -468,7 +468,7 @@
 	<search-key-group href="text/glossary.xhtml#fafnir">
 		<match value="Fafnir"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#fafnismol">
+	<search-key-group href="text/glossary.xhtml#fafnismol-glossary">
 		<match value="Fafnismol"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#falhofnir">
@@ -564,7 +564,7 @@
 	<search-key-group href="text/glossary.xhtml#fostbræthrasaga">
 		<match value="Fostbræthrasaga"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#fra-dautha-sinfjotla">
+	<search-key-group href="text/glossary.xhtml#fra-dautha-sinfjotla-glossary">
 		<match value="Fra Dautha Sinfjotla"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#fræg">
@@ -819,13 +819,13 @@
 	<search-key-group href="text/glossary.xhtml#grimnir">
 		<match value="Grimnir"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#grimnismol">
+	<search-key-group href="text/glossary.xhtml#grimnismol-glossary">
 		<match value="Grimnismol"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#gripir">
 		<match value="Gripir"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#gripisspo">
+	<search-key-group href="text/glossary.xhtml#gripisspo-glossary">
 		<match value="Gripisspo"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#groa">
@@ -873,7 +873,7 @@
 	<search-key-group href="text/glossary.xhtml#guthrun">
 		<match value="Guthrun"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#guthrunarhvot">
+	<search-key-group href="text/glossary.xhtml#guthrunarhvot-glossary">
 		<match value="Guthrunarhvot"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#guthrunarkvitha-i-en-fyrsta">
@@ -936,7 +936,7 @@
 	<search-key-group href="text/glossary.xhtml#hamther">
 		<match value="Hamther"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#hamthesmol">
+	<search-key-group href="text/glossary.xhtml#hamthesmol-glossary">
 		<match value="Hamthesmol"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#hamund">
@@ -957,7 +957,7 @@
 	<search-key-group href="text/glossary.xhtml#harbarth">
 		<match value="Harbarth"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#harbarthsljoth">
+	<search-key-group href="text/glossary.xhtml#harbarthsljoth-glossary">
 		<match value="Harbarthsljoth"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#hatafjord">
@@ -996,7 +996,7 @@
 	<search-key-group href="text/glossary.xhtml#helblindi">
 		<match value="Helblindi"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#helgakvitha-hjorvarthssonar">
+	<search-key-group href="text/glossary.xhtml#helgakvitha-hjorvarthssonar-glossary">
 		<match value="Helgakvitha Hjorvarthssonar"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#helgakvitha-hundingsbana-i-en-fyrri">
@@ -1011,7 +1011,7 @@
 	<search-key-group href="text/glossary.xhtml#helgi">
 		<match value="Helgi"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#helreith-brynhildar">
+	<search-key-group href="text/glossary.xhtml#helreith-brynhildar-glossary">
 		<match value="Helreith Brynhildar"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#heptifili">
@@ -1218,7 +1218,7 @@
 	<search-key-group href="text/glossary.xhtml#hotun">
 		<match value="Hotun"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#hovamol">
+	<search-key-group href="text/glossary.xhtml#hovamol-glossary">
 		<match value="Hovamol"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#hovarth">
@@ -1338,7 +1338,7 @@
 	<search-key-group href="text/glossary.xhtml#hymir">
 		<match value="Hymir"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#hymiskvitha">
+	<search-key-group href="text/glossary.xhtml#hymiskvitha-glossary">
 		<match value="Hymiskvitha"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#hymling">
@@ -1347,7 +1347,7 @@
 	<search-key-group href="text/glossary.xhtml#hyndla">
 		<match value="Hyndla"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#hyndluljoth">
+	<search-key-group href="text/glossary.xhtml#hyndluljoth-glossary">
 		<match value="Hyndluljoth"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#ifing">
@@ -1548,7 +1548,7 @@
 	<search-key-group href="text/glossary.xhtml#logafjoll">
 		<match value="Logafjoll"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#lokasenna">
+	<search-key-group href="text/glossary.xhtml#lokasenna-glossary">
 		<match value="Lokasenna"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#loki">
@@ -1789,7 +1789,7 @@
 	<search-key-group href="text/glossary.xhtml#oddrun">
 		<match value="Oddrun"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#oddrunargratr">
+	<search-key-group href="text/glossary.xhtml#oddrunargratr-glossary">
 		<match value="Oddrunargratr"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#ofnir">
@@ -1903,7 +1903,7 @@
 	<search-key-group href="text/glossary.xhtml#reginleif">
 		<match value="Reginleif"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#reginsmol">
+	<search-key-group href="text/glossary.xhtml#reginsmol-glossary">
 		<match value="Reginsmol"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#reifnir">
@@ -1912,7 +1912,7 @@
 	<search-key-group href="text/glossary.xhtml#rig">
 		<match value="Rig"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#rigsthula">
+	<search-key-group href="text/glossary.xhtml#rigsthula-glossary">
 		<match value="Rigsthula"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#rin">
@@ -2026,7 +2026,7 @@
 	<search-key-group href="text/glossary.xhtml#sigrdrifa">
 		<match value="Sigrdrifa"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#sigrdrifumol">
+	<search-key-group href="text/glossary.xhtml#sigrdrifumol-glossary">
 		<match value="Sigrdrifumol"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#sigrlin">
@@ -2122,7 +2122,7 @@
 	<search-key-group href="text/glossary.xhtml#skirnir">
 		<match value="Skirnir"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#skirnismol">
+	<search-key-group href="text/glossary.xhtml#skirnismol-glossary">
 		<match value="Skirnismol"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#skithblathnir">
@@ -2308,7 +2308,7 @@
 	<search-key-group href="text/glossary.xhtml#svipdag">
 		<match value="Svipdag"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#svipdagsmol">
+	<search-key-group href="text/glossary.xhtml#svipdagsmol-glossary">
 		<match value="Svipdagsmol"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#sviputh">
@@ -2422,7 +2422,7 @@
 	<search-key-group href="text/glossary.xhtml#thrymheim">
 		<match value="Thrymheim"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#thrymskvitha">
+	<search-key-group href="text/glossary.xhtml#thrymskvitha-glossary">
 		<match value="Thrymskvitha"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#thund">
@@ -2488,7 +2488,7 @@
 	<search-key-group href="text/glossary.xhtml#vafthruthnir">
 		<match value="Vafthruthnir"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#vafthruthnismol">
+	<search-key-group href="text/glossary.xhtml#vafthruthnismol-glossary">
 		<match value="Vafthruthnismol"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#vak">
@@ -2695,7 +2695,7 @@
 	<search-key-group href="text/glossary.xhtml#völundarkvitha">
 		<match value="Völundarkvitha"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#voluspo">
+	<search-key-group href="text/glossary.xhtml#voluspo-glossary">
 		<match value="Voluspo"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#von">
