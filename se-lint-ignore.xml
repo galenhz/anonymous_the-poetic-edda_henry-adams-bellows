@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="*.xhtml">
+		<ignore>
+			<code>s-063</code>
+			<reason>Temp.</reason>
+		</ignore>
+		<ignore>
+			<code>t-045</code>
+			<reason>Temp.</reason>
+		</ignore>
+		<ignore>
+			<code>x-018</code>
+			<reason>All stanzas and sections have id tags, even those that are not used, for consistency.</reason>
+		</ignore>
+		<ignore>
+			<code>x-019</code>
+			<reason>The id attributes in the poems are given functional values which preserve the stanza number, and differentiate the prose sections.</reason>
+		</ignore>
+	</file>
+	<file path="general-introduction.xhtml">
+		<ignore>
+			<code>y-029</code>
+			<reason>The emphasis is placed on partial words to indicate stress.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
