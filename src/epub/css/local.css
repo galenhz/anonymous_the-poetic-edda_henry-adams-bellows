@@ -58,23 +58,27 @@ span.elision{
 }
 /* End Elision */
 
-/* Poetry formatting from 7.5 */
-[epub|type~="z3998:poem"] p{
+/* Poetry formatting from 7.5, edited so "verse" works as well as "poem" */
+[epub|type~="z3998:poem"] p,
+[epub|type~="z3998:verse"] p{
 	text-align: initial;
 	text-indent: 0;
 }
 
-[epub|type~="z3998:poem"] p + p{
+[epub|type~="z3998:poem"] p + p,
+[epub|type~="z3998:verse"] p + p{
 	margin-top: 1em;
 }
 
-[epub|type~="z3998:poem"] p > span{
+[epub|type~="z3998:poem"] p > span,
+[epub|type~="z3998:verse"] p > span{
 	display: block;
 	padding-left: 1em;
 	text-indent: -1em;
 }
 
-[epub|type~="z3998:poem"] p > span + br{
+[epub|type~="z3998:poem"] p > span + br,
+[epub|type~="z3998:verse"] p > span + br{
 	display: none;
 }
 
@@ -82,14 +86,10 @@ p span.i1{
 	padding-left: 2em;
 	text-indent: -1em;
 }
-/* End poetry formatting */
+/* End poetry formatting from 7.5 */
 
-[epub|type~="z3998:poem"] hgroup > p{
-        text-align: center;
-        text-indent: 0;
-}
-
-[epub|type~="z3998:poem"] header{
+[epub|type~="z3998:poem"] header,
+[epub|type~="z3998:verse"] header{
 	/* styling for stanza numbers */
 	display: block;
 	font-variant: small-caps;
@@ -97,14 +97,23 @@ p span.i1{
 	text-align: center;
 }
 
-[epub|type~="z3998:poem"] header > p{
+[epub|type~="z3998:poem"] header > p,
+[epub|type~="z3998:verse"] header > p,
+[epub|type~="z3998:poem"] hgroup > p,
+[epub|type~="z3998:verse"] hgroup > p{
 	text-align: center;
 	text-indent: 0;
 }
 
-[epub|type~="z3998:poem"] header + p{
+[epub|type~="z3998:poem"] header + p,
+[epub|type~="z3998:verse"] header + p{
 	/* adjusts spacing between number and stanza */
 	margin: 0;
+}
+
+/* Prose elements following verses need more space */
+div[epub|type~="z3998:verse"] + p{
+	margin-top: 1.5em;
 }
 
 /* Correctly handle caesuras */
@@ -112,8 +121,14 @@ span > span + span{
 	margin-left: 1.5em;
 }
 
-/* Handle "spake" lines */
+/* Format "spake" lines */
 p span[epub|type~="z3998:persona"]{
+	font-style: italic;
+	padding-left: 3em;
+	text-indent: -1em;
+}
+
+.speaker-tag{
 	font-style: italic;
 	padding-left: 3em;
 	text-indent: -1em;
