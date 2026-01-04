@@ -2,14 +2,6 @@
 <se-lint-ignore>
 	<file path="*.xhtml">
 		<ignore>
-			<code>s-063</code>
-			<reason>Temp.</reason>
-		</ignore>
-		<ignore>
-			<code>t-045</code>
-			<reason>Temp.</reason>
-		</ignore>
-		<ignore>
 			<code>x-018</code>
 			<reason>All stanzas and sections have id tags, even those that are not used, for consistency.</reason>
 		</ignore>

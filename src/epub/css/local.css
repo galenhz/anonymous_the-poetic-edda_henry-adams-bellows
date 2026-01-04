@@ -122,12 +122,6 @@ span > span + span{
 }
 
 /* Format "spake" lines */
-p span[epub|type~="z3998:persona"]{
-	font-style: italic;
-	padding-left: 3em;
-	text-indent: -1em;
-}
-
 .speaker-tag{
 	font-style: italic;
 	padding-left: 3em;
