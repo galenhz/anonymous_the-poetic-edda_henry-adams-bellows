@@ -877,13 +877,13 @@
 		<match value="Guthrunarhvot"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#guthrunarkvitha-i-en-fyrsta">
-		<match value="Guthrunarkvitha I (en Fyrsta)"/>
+		<match value="Guthrunarkvitha I"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#guthrunarkvitha-ii-onnur,-en-forna">
-		<match value="Guthrunarkvitha II (Onnur, en Forna)"/>
+		<match value="Guthrunarkvitha II"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#guthrunarkvitha-iii-thrithja">
-		<match value="Guthrunarkvitha III (Thrithja)"/>
+		<match value="Guthrunarkvitha III"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#gylfaginning">
 		<match value="Gylfaginning"/>
@@ -925,7 +925,7 @@
 		<match value="Halfdan"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#halfdan-the-old">
-		<match value="Halfdan (the Old)"/>
+		<match value="Halfdan the Old"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#halfssaga">
 		<match value="Halfssaga"/>
@@ -949,10 +949,10 @@
 		<match value="Har"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#harald-battle-tooth">
-		<match value="Harald (Battle-Tooth)"/>
+		<match value="Harald Battle-Tooth"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#harald-blue-tooth">
-		<match value="Harald (Blue-Tooth)"/>
+		<match value="Harald Blue-Tooth"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#harbarth">
 		<match value="Harbarth"/>
@@ -1000,13 +1000,13 @@
 		<match value="Helgakvitha Hjorvarthssonar"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#helgakvitha-hundingsbana-i-en-fyrri">
-		<match value="Helgakvitha Hundingsbana I (en Fyrri)"/>
+		<match value="Helgakvitha Hundingsbana I"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#helgakvitha-hundingsbana-ii-onnur">
-		<match value="Helgakvitha Hundingsbana II (Onnur)"/>
+		<match value="Helgakvitha Hundingsbana II"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#helgi-haddingjaskati">
-		<match value="Helgi (Haddingjaskati)"/>
+		<match value="Helgi Haddingjaskati"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#helgi">
 		<match value="Helgi"/>
@@ -1450,7 +1450,7 @@
 		<match value="Kefsir"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#kerlaug">
-		<match value="Kerlaug"/>
+		<match value="Kerlaugs"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#ketil-hortha-kari">
 		<match value="Ketil Hortha-Kari"/>
