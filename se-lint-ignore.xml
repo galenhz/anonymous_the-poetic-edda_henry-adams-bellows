@@ -10,6 +10,12 @@
 			<reason>The id attributes in the poems are given functional values which preserve the stanza number, and differentiate the prose sections.</reason>
 		</ignore>
 	</file>
+	<file path="appendix.xhtml">
+		<ignore>
+			<code>t-011</code>
+			<reason>The closed quotes end list entries; there is no punctuation.</reason>
+		</ignore>
+	</file>
 	<file path="general-introduction.xhtml">
 		<ignore>
 			<code>y-029</code>
