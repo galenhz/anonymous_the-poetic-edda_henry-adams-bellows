@@ -2044,8 +2044,8 @@
 	<search-key-group href="text/glossary.xhtml#sigurth">
 		<match value="Sigurth"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#sigurthakvitha-en-skamma">
-		<match value="Sigurthakvitha en Skamma"/>
+	<search-key-group href="text/glossary.xhtml#sigurtharkvitha-en-skamma-glossary">
+		<match value="Sigurtharkvitha en Skamma"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#sigurth-ring">
 		<match value="Sigurth Ring"/>
