@@ -1,25 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="*.xhtml">
-		<ignore>
-			<code>x-018</code>
+		<ignore code="x-018">
 			<reason>All stanzas and sections have id tags, even those that are not used, for consistency.</reason>
 		</ignore>
-		<ignore>
-			<code>x-019</code>
+		<ignore code="x-019">
 			<reason>The id attributes in the poems are given functional values which preserve the stanza number, and differentiate the prose sections.</reason>
 		</ignore>
 	</file>
+	<file path="alvissmol.xhtml">
+		<ignore code="y-026">
+			<line>617</line>
+			<reason>Lint mistakes the name of the god Nor for a conjunction.</reason>
+		</ignore>
+	</file>
 	<file path="appendix.xhtml">
-		<ignore>
-			<code>t-011</code>
+		<ignore code="t-011">
 			<reason>The closed quotes end list entries; there is no punctuation.</reason>
 		</ignore>
 	</file>
 	<file path="general-introduction.xhtml">
-		<ignore>
-			<code>y-029</code>
+		<ignore code="y-029">
 			<reason>The emphasis is placed on partial words to indicate stress.</reason>
+		</ignore>
+	</file>
+	<file path="vafthruthnismol.xhtml">
+		<ignore code="y-026">
+			<line>532</line>
+			<reason>Lint mistakes the name of the god Nor for a conjunction.</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>
